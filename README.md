@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sahilmehdiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilmehdiyev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sahil mehdiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sahil mehdiyev" height="30" width="40" /></a>
-<a href="https://instagram.com/sahilmehdioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilmehdioglu" height="30" width="40" /></a>
+<a href="https://instagram.com/sahil.mehdioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil.mehdioglu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
