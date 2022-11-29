@@ -15,5 +15,5 @@
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
-  <p><img align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmehdiyev&" alt="sahilmehdiyev" /></p>
+  <p><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmehdiyev&" alt="sahilmehdiyev" /></p>
 
