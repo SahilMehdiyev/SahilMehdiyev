@@ -30,10 +30,12 @@
   <img src="https://streak-stats.demolab.com?user=SahilMehdiyev&theme=tokyonight&hide_border=true" width="48%"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilMehdiyev&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
-</p>
+</p> -->
 
-<div align="center">
-  <img src="https://github.com/SahilMehdiyev/SahilMehdiyev/blob/output/github-snake-dark.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilMehdiyev/SahilMehdiyev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilMehdiyev/SahilMehdiyev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SahilMehdiyev/SahilMehdiyev/output/github-snake-dark.svg" width="100%" />
+</picture>
